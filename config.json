@@ -1,0 +1,17 @@
+{
+	"XML_HEADER": "<?xml version=\"1.0\" encoding=\"utf-8\"?>",
+
+	"SWF_URL": "/static/animation",
+	"STORE_URL": "/static/store",
+	"CLIENT_URL": "/static/static",
+	"CHAR_BASE_URL": "./static/characters",
+	"THUMB_BASE_URL": "./static/thumbnails",
+
+	"ASSET_FOLDER": "./_ASSETS",
+	"CACHÉ_FOLDER": "./_CACHÉ",
+	"LOG_FOLDER": "./_LOGS",
+	"SAVED_FOLDER": "./_SAVED",
+
+	"SERVER_PORT": 4343,
+	"WRAPPER_VER": "2.1.0"
+}

@@ -1,0 +1,8 @@
+<footer>
+	<nav id="foot-left">
+		<span>v<%= it.env.WRAPPER_VER %></span>
+		<a href="/settings">Settings</a>
+	</nav>
+
+	<nav id="foot-right"></nav>
+</footer>
