@@ -1,4 +1,4 @@
-title Wrapper: Offline Settings Script
+title Wrapper: Offline Settings Experience!
 :: Interactive config.bat changer
 :: Author: benson#0411
 :: License: MIT
